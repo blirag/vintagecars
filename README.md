@@ -25,6 +25,6 @@ Esse projeto foi criado com o intuito de práticar minhas habilidades no front-e
 <br>
 
 <h2 id="licenca"> 📃 Licença </h2>
-<p> Esse projeto está sob a licença MIT. Veja o arquivo <a href="LICENSE.md"> LICENSE </a> para mais detalhes. </p>
+<p> Esse projeto está sob a licença MIT. Veja o arquivo <a href="LICENSE"> LICENSE </a> para mais detalhes. </p>
 <br>
 Create by Beatriz Lira 🎈
